@@ -1,4 +1,4 @@
-# BasicScriptingLanguage
+# Basic scripting language
 
 This is my own scripting language based on the arithmetic syntax parser written in C++ from scratch. It takes source code as an input and executes program by checking grammatical correction. In this primitive language you can:
 - initilize variables and literals
